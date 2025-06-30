@@ -1,0 +1,2 @@
+# FastApi
+Easy FastApi framework
