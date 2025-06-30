@@ -9,9 +9,15 @@ students={
     2: {"name": "Adithya", 
         "age": 21, 
         "city": "Satyavedu"},
-    3: {"name": "Akshaya", 
+    3: {"name": "Dhanush", 
         "age": 21, 
-        "city": "Nellore"}
+        "city": "Rayachoti"}
+    4: {"name": "Sai ram",
+        "age": 21,
+        "city": "vizag"}
+    5:{"name": "Akshaya",
+       "age": 21,
+       "city": "Nellore"}
 }
 class Student(BaseModel):
     name:str
